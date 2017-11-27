@@ -1,0 +1,42 @@
+CSS
+
+--> CSS properties
+	-> Font  -> font-size; color	
+	-> Image
+	-> Forms
+	-> Form Controll
+
+------
+     Three ways 
+	-> External CSS
+	-> Internal CSS
+	-> Inline 
+
+---------------------------------
+
+Inline CSS
+----------
+<h1 style="color:aqua">Welcome to HTML5</h1>
+
+
+
+CSS properties
+---------------------
+Colors
+-------
+	-> background color
+	 background-color: green;
+	-> Text color
+	 color: yellow;
+	-> Border Color
+		solid
+		doted
+		dashed
+		double
+		groove
+	
+
+
+
+
+
