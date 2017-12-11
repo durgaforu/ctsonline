@@ -1,0 +1,97 @@
+Java Script
+----------------
+
+--> Js is a Language. Its not a library
+--> DOM - Document Object model
+
+
+Intro
+------
+-> Scripting language for web pages in browser envi
++
+-> Server side language on Node.JS
+-> Mobile application
+-> command line tools
+
+----------------------------------------------------
+.js language features
+
+-> Functional progrming or OOP
+-> Dynamic type langauge
+-> closures support
+-> Single thfreaded languge , we can do better concurrency
+-> Non blocking IO
+
+----------------------------------------------------
+.js lang is an implementation of 'ECMAScriot Spec' [ES]
+latest release : ES -2015 or ES6
+
+How to run Js program
+----------------------
+
+--> using .js-runtime/engine
+
+Browser based invi
+--------------------
+a. chrome -> v8 engine
+b. firefox -> rhino (java)
+c. IE/edge -> chakra
+4. Safari -> Nitro
+........................
+
+Other envi
+------------
+a. node.js -> v8 engine
+b. JVM -> rhino / nashorn
+c. Adobe
+d. Apache CloudDB
+e. Mongodb
+------------
+
+
+Topics
+----------
+
+1. data-types
+2. execution -context/scopes
+3. Functions-depth
+4. this operator .. 
+5. closures
+6. Inheritance
+7. Objects - advannced level
+8. ES6 features
+9. JS-modules
+10. Js-Concurrency model with event - loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
