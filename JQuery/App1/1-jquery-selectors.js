@@ -5,6 +5,8 @@ $(document).ready(
        // $("#france,.promo").text('Hyderabad');
 
         $('#destinations').find('li').text('Secunderabad');
+        $("p").css("background-color","red");
+
         
     }
 );
