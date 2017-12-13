@@ -1,0 +1,80 @@
+jQuery
+------------
+-> jQuery is a fast, small, and feature-rich JavaScript library.
+
+HTML + CSS -> static web page in browsers.
+
+To bring interativity to web-page, we need some language (java script)
+
+
+What JS can do on a HTML Page?
+----------------------------------
+	-> can create, retrieve, uodate and delete HTML elements
+	-> Can change element's style
+	-> can change elements attributes values
+	-> can change elements text content
+	-> can validate form fields
+	-> can commiuunicate with server asynch, update results (XHR API)
+	-> Can use all HTML5 API functionality
+	-> can create rich UI components to HTML
+--------------------------------------
+
+JS using DOM-API/Web/APi can manipulate HTML page
+
+---------------------------------------
+
+Limitations using plaain JS with HTML pages
+
+	-> browser compatibility issues
+	-> too much code
+	-> perfomance
+	-> memeory management
+	-> code organization
+
+------------------------------------------
+
+
+JS libraries and Framwworks
+
+libraries
+1. jQuery
+
+Framework
+1. backbone
+2. Angular JS
+3. Ember JS
+4. Knokout
+
+UI components
+1. DOJO
+2. EXT-JS
+
+------------------------------------------
+
+
+Introduction to jQuery
+--------------------------------
+
+	-> jquery selectorts (basic and advanced)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
