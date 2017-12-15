@@ -1,0 +1,104 @@
+Angular
+---------
+-> By Google
+
+You must know to undrdtand angular
+-------------------------------------
+	-> HTML and CSS
+	-> Javascript
+Nice to know
+	-> BDD (Behavior Driven Development)
+	-> TDD (Test driven development)
+
+Not very important
+	-> jQuery
+	-> Ruby on rails
+	-> Python, PHP etc (any server side prog)
+	-> Databases
+	-> No SQL Mongo DB
+	-> Node JS
+
+Why Angular?
+
+If you are using java script to create dynamic web site,
+Angular is good choice
+
+-> to do CRUD operations on HTML with Java script
+-> Angular helps  you to organizr java script(mvc, mvvm)
+-> Angular helps to create responsive web sites(very fast)
+-> Angular plays very well with jQuery
+-> Angular is very easy to test
+-> Angular helps to degin SPA(Single page application)
+
+What is Angular js?
+-------------------
+A clientside java script framework for adding 
+interactivity to HTML
+-----------------------------------------------
+
+How do we tell our HTML when to trigger our javascript?
+Sol: 'ng - Directives'
+-----------------------------------------------
+
+Directives
+----------
+A directive is a marker on a HTML tag that tells angular
+to run or reference some javascript code.
+
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

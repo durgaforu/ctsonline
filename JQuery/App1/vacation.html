@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="/2-jquery-vacation.js"></script>
+    </head>
+    <body class='container'>
+    <h2>jQuery Application</h2> <hr/>
+    <div id='filters' class='well'>
+        <button class='btn btn-primary onSale-filter'>On-Saale</button>
+        <button class='btn btn-danger expiring-filter'>Expiring Soon</button>
+    </div>   
+
+    <div class='row'>
+
+        <div class='col-sm-6 col-md-4 vacation onSale' data-price='100'>
+            <h1>Andaman Tour</h1>
+            <hr/>
+            <button class='btn btn-primary'>Get Price</button>
+            <p class='price'></p>
+        </div>
+
+
+        <div class='col-sm-6 col-md-4 vacation expiring' data-price='9876'>
+                <h1>Andaman Tour-1</h1>
+                <hr/>
+                <button class='btn btn-primary'>Get Price</button>
+                <p class='price'></p>
+        </div>
+
+        <div class='col-sm-6 col-md-4 vacation onSale' data-price='3456'>
+                <h1>Andaman Tour-2</h1>
+                <hr/>
+                <button class='btn btn-primary'>Get Price</button>
+                <p class='price'></p>
+        </div>
+
+    </div>
+
+    
+    </body>
+</html>
