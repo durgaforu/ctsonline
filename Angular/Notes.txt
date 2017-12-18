@@ -47,6 +47,32 @@ to run or reference some javascript code.
 
 ----------------------------------------------
 
+Downloading the libraries of the angular
+-----------------------------------------
+Download angular JS, http://angular.org
+
+npm install -g @angular/cli
+
+ng new my-app
+
+
+ANgular app can be developed using plain JS/ Type Script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
